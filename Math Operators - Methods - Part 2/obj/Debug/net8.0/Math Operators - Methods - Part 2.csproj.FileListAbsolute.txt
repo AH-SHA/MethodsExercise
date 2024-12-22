@@ -1,0 +1,15 @@
+C:\Users\compm\repos\MethodsExercise\Math Operators - Methods - Part 2\obj\Debug\net8.0\Math Operators - Methods - Part 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\compm\repos\MethodsExercise\Math Operators - Methods - Part 2\obj\Debug\net8.0\Math Operators - Methods - Part 2.AssemblyInfoInputs.cache
+C:\Users\compm\repos\MethodsExercise\Math Operators - Methods - Part 2\obj\Debug\net8.0\Math Operators - Methods - Part 2.AssemblyInfo.cs
+C:\Users\compm\repos\MethodsExercise\Math Operators - Methods - Part 2\obj\Debug\net8.0\Math Operators - Methods - Part 2.csproj.CoreCompileInputs.cache
+C:\Users\compm\repos\MethodsExercise\Math Operators - Methods - Part 2\obj\Debug\net8.0\Math Operators - Methods - Part 2.sourcelink.json
+C:\Users\compm\repos\MethodsExercise\Math Operators - Methods - Part 2\bin\Debug\net8.0\Math Operators - Methods - Part 2.exe
+C:\Users\compm\repos\MethodsExercise\Math Operators - Methods - Part 2\bin\Debug\net8.0\Math Operators - Methods - Part 2.deps.json
+C:\Users\compm\repos\MethodsExercise\Math Operators - Methods - Part 2\bin\Debug\net8.0\Math Operators - Methods - Part 2.runtimeconfig.json
+C:\Users\compm\repos\MethodsExercise\Math Operators - Methods - Part 2\bin\Debug\net8.0\Math Operators - Methods - Part 2.dll
+C:\Users\compm\repos\MethodsExercise\Math Operators - Methods - Part 2\bin\Debug\net8.0\Math Operators - Methods - Part 2.pdb
+C:\Users\compm\repos\MethodsExercise\Math Operators - Methods - Part 2\obj\Debug\net8.0\Math Operators - Methods - Part 2.dll
+C:\Users\compm\repos\MethodsExercise\Math Operators - Methods - Part 2\obj\Debug\net8.0\refint\Math Operators - Methods - Part 2.dll
+C:\Users\compm\repos\MethodsExercise\Math Operators - Methods - Part 2\obj\Debug\net8.0\Math Operators - Methods - Part 2.pdb
+C:\Users\compm\repos\MethodsExercise\Math Operators - Methods - Part 2\obj\Debug\net8.0\Math Operators - Methods - Part 2.genruntimeconfig.cache
+C:\Users\compm\repos\MethodsExercise\Math Operators - Methods - Part 2\obj\Debug\net8.0\ref\Math Operators - Methods - Part 2.dll
